@@ -1,0 +1,339 @@
+
+@media only screen and (min-width: 376px) and (max-width: 425px) {
+    header {
+      width: 100%;
+      padding-left: 0;
+      padding-right: 0;
+      flex-wrap: wrap;
+    }
+  
+    header .logo {
+      width: 100%;
+      text-align: center;
+    }
+  
+    header .nav-links {
+      width: 100%;
+    }
+  
+  
+  
+    header .nav-links ul li a {
+      font-size: 16px;
+    }
+  
+
+  
+    .introdaction {
+      margin-top: 10px;
+      width: 100%;
+      flex-wrap: wrap;
+    }
+  
+    .introdaction .introduction-text {
+      margin-top: 20px;
+      width: 100%;
+      padding-left: 15px;
+    }
+  
+    .introdaction .introduction-text h1 {
+      font-size: 35px;
+      line-height: 42.5px;
+    }
+  
+    .introdaction .intro-text p {
+      font-size: 16px;
+      margin-top: 24px;
+      margin-bottom: 14px;
+    }
+  
+  
+    .trusted-by {
+      width: 100%;
+      margin-bottom: 60px;
+    }
+  
+    .trusted-by h6 {
+      margin-bottom: 25px;
+    }
+  
+    .trusted-by .company {
+      height: 100%;
+      flex-wrap: wrap;
+    }
+  
+  
+    .projects h2 {
+      padding-left: 15px;
+    }
+  
+    .projects .projects-title {
+      width: 100%;
+      padding-left: 15px;
+      padding-right: 15px;
+      flex-wrap: wrap;
+    }
+  
+    .projects .projects-title h4 {
+      font-size: 34px;
+      line-height: 30px;
+    }
+  
+    .projects .projects-title button {
+      width: 150px;
+      height: 50px;
+      font-size: 14px;
+      margin-top: 10px;
+    }
+  
+    .projects .projects-items {
+      flex-wrap: wrap;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+  
+    .projects .pagination {
+      width: 100%;
+      justify-content: center;
+      padding-right: 0px;
+    }
+  
+    .bloggings {
+      flex-wrap: wrap;
+    }
+  
+    .bloggings .left-side {
+      width: 100%;
+      margin-left: 15px;
+      padding-left: 15px;
+    }
+  
+    .bloggings .left-side h3 {
+      font-size: 22px;
+    }
+  
+    .bloggings .left-side h4 {
+      font-size: 44px;
+    }
+  
+    .bloggings .right-blog {
+      width: 100%;
+      padding-top: 20px;
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .bloggings .right-blog .blog-item {
+      margin-top: 20px;
+      padding-left: 25px;
+      padding-right: 15px;
+    }
+  
+    .bloggings .right-blog .blog-item span {
+      font-size: 13px;
+    }
+  
+    .bloggings .right-blog .blog-item h4 {
+      font-size: 18px;
+    }
+  
+    .bloggings .right-blog .blog-item a {
+      font-size: 14px;
+    }
+  
+    .bloggings .right-blog .blog-item a i {
+      margin-left: 5px;
+    }
+  
+    .bloggings .right-blog .blog-item hr {
+      width: 100%;
+    }
+  
+    .product-designer {
+      flex-wrap: wrap;
+      padding: 45px;
+    }
+  
+    .product-designer .product-left {
+      width: 100%;
+    }
+  
+    .product-designer .product-left h4 {
+      font-size: 18px;
+    }
+  
+    .product-designer .product-left h2 {
+      font-size: 34px;
+    }
+  
+    .product-designer .product-right {
+      width: 100%;
+    }
+  
+    .product-designer .product-right p {
+      font-size: 14px;
+      line-height: 20px;
+    }
+  
+    .product-designer .product-img {
+      margin-top: 50px;
+      flex-wrap: wrap;
+    }
+  
+    .product-designer .product-img img {
+      width: 100%;
+      padding-left: 0px;
+      margin-top: 10px;
+    }
+  
+    .product-designer .product-img img:first-child {
+      padding-left: 0px;
+    }
+  
+    .product-designer .product-img .product-img-left {
+      width: 100%;
+    }
+  
+    .product-designer .product-img .product-img-left img {
+      padding-left: 0px;
+    }
+  
+    .product-designer .product-img .product-img-left img:last-child {
+      margin-top: 10px;
+    }
+  
+    .education {
+      padding-top: 50px;
+      padding-bottom: 50px;
+      padding-left: 15px;
+      padding-right: 15px;
+      flex-wrap: wrap;
+    }
+  
+    .education .left-education {
+      width: 100%;
+    }
+  
+    .education .left-education ul {
+      list-style: none;
+    }
+  
+    .education .left-education ul li {
+      margin-top: 10px;
+    }
+  
+    .education .left-education ul li .education-title {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+    }
+  
+    .education .left-education ul li .education-title h2 {
+      margin-bottom: 10px;
+      font-size: 16px;
+    }
+  
+    .education .left-education ul li .education-subtitle p {
+      font-size: 13px;
+    }
+  
+    .education .left-education ul li .education-subtitle p:last-child {
+      padding-right: 0px;
+    }
+  
+    .education .right-education {
+      width: 100%;
+      margin-top: 20px;
+      margin-left: 0px;
+    }
+  
+    .education .right-education .right-list li .education-card .education-title {
+      font-size: 16px;
+    }
+  
+    .education .right-education .right-list li .education-card .education-subtitle {
+      font-size: 14px;
+    }
+  
+    .testimonials {
+      padding: 30px 15px;
+    }
+  
+    .testimonials .testimonial {
+      flex-wrap: wrap;
+    }
+  
+    .testimonials .testimonial .picture {
+      width: 100%;
+      margin-right: 0px;
+    }
+  
+    .testimonials .testimonial .picture img {
+      width: 100%;
+      height: 100%;
+    }
+  
+    .testimonials .testimonial .testimonial-title {
+      width: 100%;
+    }
+  
+    .testimonials .testimonial .testimonial-title img {
+      margin-bottom: 20px;
+      margin-top: 20px;
+    }
+  
+    .testimonials .testimonial .testimonial-title p {
+      font-size: 26px;
+      line-height: 36.8px;
+      margin-top: 10px;
+      margin-bottom: 50px;
+    }
+  
+    .testimonials .testimonial .testimonial-title .container {
+      width: 100%;
+      height: 50px;
+      display: inline-flex;
+      justify-content: space-between;
+    }
+  
+    .testimonials .testimonial .testimonial-title .container .left {
+      width: 50%;
+      height: 50px;
+    }
+  
+    .testimonials .testimonial .testimonial-title .container .left p:last-child {
+      font-size: 14px;
+    }
+  
+    .faq {
+      margin-top: 30px;
+      padding: 30px 15px;
+    }
+  
+    .faq .titles {
+      font-size: 24px;
+      line-height: 29px;
+    }
+  
+    footer {
+      padding: 30px 15px;
+    }
+  
+    footer h1 {
+      font-size: 34px;
+      line-height: 39.4px;
+    }
+  
+    footer h2 {
+      font-size: 34px;
+      line-height: 39.4px;
+    }
+  
+    footer .content .left-side{
+      margin-top: 30px;
+      flex-wrap: wrap;
+    }
+  
+  }
+  
+ 
